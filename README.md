@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VVzfhqETD8PTKgA1_-bKNykS97KcXtXS/view?usp=sharing](https://drive.google.com/file/d/1VVzfhqETD8PTKgA1_-bKNykS97KcXtXS/view?usp=sharing)
 
-- ⚡ Fun fact **I have more GitHub repos than I have pairs of socks!**
+- ⚡ Fun fact: **I have more GitHub repos than I have pairs of socks!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
