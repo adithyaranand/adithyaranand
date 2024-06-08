@@ -1,7 +1,6 @@
 <h1 align="center">Hello world! 👋 I'm Adithya R Anand</h1>
 <h3 align="center">A code aficionado and coffee-powered developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyaranand" alt="adithyaranand" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
