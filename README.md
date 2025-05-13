@@ -1,29 +1,45 @@
 <h1 align="center">Hello world! 👋 I'm Adithya R Anand</h1>
-<h3 align="center">A code aficionado and coffee-powered developer from India</h3>
+<h3 align="center">Certified MuleSoft Developer | Code aficionado | Coffee-powered engineer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/adithyaranand10" target="blank"><img src="https://img.shields.io/twitter/follow/adithyaranand10?logo=twitter&style=for-the-badge" alt="adithyaranand10" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/adithyaranand10" target="blank">
+    <img src="https://img.shields.io/twitter/follow/adithyaranand10?logo=twitter&style=for-the-badge" alt="adithyaranand10" />
+  </a> 
+</p>
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 📫 How to reach me **adithyranand@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VVzfhqETD8PTKgA1_-bKNykS97KcXtXS/view?usp=sharing](https://drive.google.com/file/d/1VVzfhqETD8PTKgA1_-bKNykS97KcXtXS/view?usp=sharing)
-
+- 🔭 I’m currently working on **MuleSoft integration projects**
+- 🧠 Certified **MuleSoft Developer Level 1 (Mule 4)**
+- 🌱 Currently learning **Spring Boot** and exploring **API-led connectivity**
+- 📫 Reach me at **adithyranand@gmail.com**
+- 📄 My Resume
 - ⚡ Fun fact: **I have more GitHub repos than I have pairs of socks!**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/adithya27082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adithya27082002" height="30" width="40" /></a>
-<a href="https://twitter.com/adithyaranand10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithyaranand10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adithya-r-anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-r-anand/" height="30" width="40" /></a>
-<a href="https://kaggle.com/adithyaranand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adithyaranand" height="30" width="40" /></a>
-<a href="https://instagram.com/adithya_r.anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_r.anand/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adithyaranand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adithyaranand" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adithya27082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adithya27082002" height="30" width="40" /></a>
+  <a href="https://dev.to/adithya27082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+  <a href="https://twitter.com/adithyaranand10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/adithya-r-anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://kaggle.com/adithyaranand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+  <a href="https://instagram.com/adithya_r.anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/adithyaranand" target="blank"><img align/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/adithya27082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Keep your existing icons -->
+  <!-- Add MuleSoft logo if desired -->
+  <a href.mulesoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.mulesoft.com/sites/default/files/mulesoft-logo.png" alt="mulesoft" width="80" height="40"/>
+  </a>
+  <!-- Rest of your icons -->
+</p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyaranand&show_icons=true&locale=en&layout=compact" alt="adithyaranand" /></p>
 
