@@ -30,12 +30,18 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.mulesoft.com" target="_blank" rel="noreferrer">
-    src="https://www.mulesoft.com/sites/default/files/mulesoft-logo.png" alt="mulesoft" width="80" height="40"/>
-  </a>
-  <!-- Keep your existing icons here -->
-</p>
+
+- MuleSoft Anypoint Platform  
+- Mule 4  
+- DataWeave  
+- API-led Connectivity  
+- RAML & OpenAPI Specification  
+- Anypoint Studio  
+- Anypoint Exchange  
+- Anypoint Monitoring  
+- CloudHub & Runtime Manager  
+- Java  
+- Python  
 
 ---
 
