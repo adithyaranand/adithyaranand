@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! 👋 I'm Adithya R Anand</h1>
-<h3 align="center">Certified MuleSoft Developer | Code aficionado | Coffee-powered engineer from India</h3>
+<h3 align="center">Certified MuleSoft Developer | Integration Enthusiast | ML Explorer | Coffee-powered Engineer from India</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/adithyaranand10" target="blank">
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MuleSoft integration projects**
 - 🧠 Certified **MuleSoft Developer Level 1 (Mule 4)**
-- 🌱 Currently learning **Spring Boot** and exploring **API-led connectivity**
+- 🤖 Exploring **Machine Learning** and **Integration Strategies**
 - 📫 Reach me at **adithyranand@gmail.com**
 - 📄 My Resume
 - ⚡ Fun fact: **I have more GitHub repos than I have pairs of socks!**
@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/adithya-r-anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://kaggle.com/adithyaranand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
   <a href="https://instagram.com/adithya_r.anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/adithyaranand" target="blank"><img align/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/adithyaranand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/adithya27082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
@@ -31,12 +31,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Keep your existing icons -->
-  <!-- Add MuleSoft logo if desired -->
-  <a href.mulesoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.mulesoft.com/sites/default/files/mulesoft-logo.png" alt="mulesoft" width="80" height="40"/>
+  <a href="https://www.mulesoft.com" target="_blank" rel="noreferrer">
+    src="https://www.mulesoft.com/sites/default/files/mulesoft-logo.png" alt="mulesoft" width="80" height="40"/>
   </a>
-  <!-- Rest of your icons -->
+  <!-- Keep your existing icons here -->
 </p>
 
 ---
