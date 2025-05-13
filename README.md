@@ -11,7 +11,6 @@
 - 🧠 Certified **MuleSoft Developer Level 1 (Mule 4)**
 - 🤖 Exploring **Machine Learning** and **Integration Strategies**
 - 📫 Reach me at **adithyranand@gmail.com**
-- 📄 My Resume
 - ⚡ Fun fact: **I have more GitHub repos than I have pairs of socks!**
 
 ---
